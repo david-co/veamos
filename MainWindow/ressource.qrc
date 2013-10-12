@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/images">
-        <file>dualscreen.png</file>
-        <file>exit.png</file>
-    </qresource>
-</RCC>
